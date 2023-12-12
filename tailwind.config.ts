@@ -10,6 +10,7 @@ const config: Config = {
     extend: {
       colors: {
         "dark-cyan": "hsl(158, 36%, 37%)",
+        "very-dark-cyan": "hsla(157, 43%, 18%, 1)",
         cream: "hsl(30, 38%, 92%)",
         "very-dark-blue": "hsl(212, 21%, 14%)",
         "dark-grayish-blue": "hsl(228, 12%, 48%)",

@@ -31,7 +31,7 @@ export default function ProductPreviewCard() {
             $169.99
           </div>
         </div>
-        <button className="bg-dark-cyan text-white rounded-lg p-4 flex items-center justify-center gap-3 text-sm font-bold">
+        <button className="bg-dark-cyan text-white rounded-lg p-4 flex items-center justify-center gap-3 text-sm font-bold cursor-pointer hover:bg-very-dark-cyan">
           <Image alt="cart-icon" src={iconCart} />
           Add to Cart
         </button>
